@@ -18,7 +18,7 @@ node server
 you can see the demo (localhost:4000)
 ]
 
-you will find how to use on test.js
+you can check how it's used on test.js
 and test.html
 
 also don't forget to check pureAjax.js to see all the options (defaultAjax)
