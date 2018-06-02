@@ -1,0 +1,24 @@
+{
+  "name": "pureajax",
+  "version": "1.0.0",
+  "description": "A short library that implement pure ajax functionalities and useful functions",
+  "main": "pureAjax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pure",
+    "js",
+    "ajax",
+    "minimal",
+    "library"
+  ],
+  "author": "Mohamed Lamine Allal <allalmohamedlamine@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
